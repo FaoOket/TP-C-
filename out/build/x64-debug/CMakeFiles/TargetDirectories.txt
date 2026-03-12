@@ -1,0 +1,6 @@
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/TD1/CMakeFiles/TD1_1.dir
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/TD1/CMakeFiles/TD1_exo2.dir
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/TD1/CMakeFiles/edit_cache.dir
+C:/Users/ORIGINAL/source/repos/TDs/out/build/x64-debug/TD1/CMakeFiles/rebuild_cache.dir
